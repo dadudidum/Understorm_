@@ -64,6 +64,8 @@ iframe {
     background-color: rgb(91, 0, 177);
     width:200px;
     text-align:center;
+    display:flex;
+    margin: 0 auto;
 }
 
 .kajo {
