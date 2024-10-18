@@ -39,26 +39,34 @@ flex-direction: column;
 
 .pp {
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
     padding: 0 100px;
     font-size: 25px;
+    align-items:center;
 }
 
 iframe {
     margin-left: 250px;
     margin-top: 0px;
+    display:flex;
+    align-items:center;
+    justify-content: center;
 }
 
 .fff {
     font-size: 100px;
     color: blueviolet;
     margin-left: 25px;
+    text-align:center;
 }
 
 .rjf {
-    text-align: center;
     border-radius: 20px;
     background-color: rgb(91, 0, 177);
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    width:200px;
 }
 
 .kajo {
