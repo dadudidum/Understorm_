@@ -62,9 +62,6 @@ iframe {
 .rjf {
     border-radius: 20px;
     background-color: rgb(91, 0, 177);
-    display:flex;
-    align-items:center;
-    justify-content:center;
     width:200px;
     text-align:center;
 }
