@@ -27,7 +27,6 @@ background: linear-gradient(0deg, rgba(124,0,255,1) 34%, rgba(60,5,120,1) 68%);
 background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
-  height: 100%;
   display: flex;
 flex-direction: column;
 }
